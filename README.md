@@ -1,20 +1,8 @@
 ### Software Enginner 💻
 
 - 📊Data Science                               
-  - Python                 
-  - Pandas                  
-  - Matplotlib              
-  - SciPy                   
-  - SciKit-Learn
-  - NumPy
-  - TensorFlow
-
 - 💻Web Development
-  - Django
-  - DRF
-  - Flask
-  - FastAPI
-  - ReactJS
+- 🤖🕷Web Scraping
   
 
 
